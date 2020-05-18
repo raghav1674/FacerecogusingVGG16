@@ -220,7 +220,7 @@ model.summary()
 
 
 
-
+![Model Summary](summary.PNG)
     
     
     
