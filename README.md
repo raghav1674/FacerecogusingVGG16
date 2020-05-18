@@ -16,7 +16,7 @@ Transfer learning (TL) is a research problem in machine learning that focuses on
    
    #### FILE STRUCTURE FOR STORING DATA AS PER MY CODE
    
-   ![FILE STRUCTURE] (FOLDERSTRUCTURE.PNG)
+   ![FILE STRUCTURE] (FOLDERSTRUCTURES.PNG)
    
    
    
