@@ -212,7 +212,7 @@ print(char)
 
 image.array_to_img(oimg)
 
-modelnew.save("family.h5")
+modelnew.save("model.h5")
 
 model.summary()
 
