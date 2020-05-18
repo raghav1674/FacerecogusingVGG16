@@ -51,11 +51,13 @@ def photo(maxcount):
                 break
     cv2.destroyAllWindows()
     print("Total photo clicked {0}".format(count))
-    cap.release()  ```
+    cap.release() 
+    
+    ```
          
          
          
-   FACE RECOGNIZATON  :
+  #### FACE RECOGNIZATON  :
   
   
    
