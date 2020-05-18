@@ -12,4 +12,6 @@ Transfer learning (TL) is a research problem in machine learning that focuses on
 ### ARCHITECTURE OF VGG16 MODEL     
    
    
-  ![VGG16 ARCH](https://engmrk.com/wp-content/uploads/2018/10/VGG16_Summary-Table.jpg)
+   <img src="https://engmrk.com/wp-content/uploads/2018/10/VGG16_Summary-Table.jpg" width=600 height=300 align="center">
+   
+
