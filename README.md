@@ -24,7 +24,7 @@ import os
 import cv2
 
 def photo(maxcount):
-  '''maxcount means how many photos you want to click'''
+  #'''maxcount means how many photos you want to click'''
 
     folder=r"foldername" 
 
