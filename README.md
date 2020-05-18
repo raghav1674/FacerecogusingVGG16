@@ -14,4 +14,15 @@ Transfer learning (TL) is a research problem in machine learning that focuses on
    
    <img src="https://engmrk.com/wp-content/uploads/2018/10/VGG16_Summary-Table.jpg" width=600 height=300 align="center">
    
+   
+   
+  ##### DATA COLLECTION USING DATACOLLECTOR.PY CODE
+   
+         ```python
+         
+         
+         ```
+  
+  
+   
 
