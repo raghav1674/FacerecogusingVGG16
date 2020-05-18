@@ -18,7 +18,8 @@ Transfer learning (TL) is a research problem in machine learning that focuses on
    
   ##### DATA COLLECTION USING DATACOLLECTOR.PY CODE
    
-```python    import os 
+```python    
+import os 
 import cv2
 
 def photo(maxcount):
