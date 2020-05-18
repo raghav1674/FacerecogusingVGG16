@@ -171,7 +171,7 @@ history = modelnew.fit_generator(
 modelnew.save("model.h5")
 
 ```
-![epochs](epochs.jpg)
+![epochs](epochs.PNG)
 
 #### TESTING:
 
