@@ -18,19 +18,19 @@ Transfer learning (TL) is a research problem in machine learning that focuses on
    
   ##### DATA COLLECTION USING DATACOLLECTOR.PY CODE
    
-` 
+```python
 
 import os 
 import cv2
 
 def photo(maxcount):
-  '''maxcount means how many photos you want to click'''
+  #maxcount means how many photos you want to click
 
     folder=r"foldername" 
 
     #for example : folder for testing:
-    # r"D:/data/train/foldername/"
-    # r""D:/data/test/foldername/"
+    # "D:/data/train/foldername/"
+    # "D:/data/test/foldername/"
     
     
     cap=cv2.VideoCapture(0)
@@ -48,15 +48,23 @@ def photo(maxcount):
 
         
         
-            if cv2.waitKey(100) == ord("q") or count == int(max_count): 
+            if cv2.waitKey(100) == ord('q') or count == int(max_count): 
                 break
     cv2.destroyAllWindows()
-    print("Total photo clicked {0}".format(count))
+    print('Total photo clicked {0}'.format(count))
     cap.release()
+```
+
+
+#### FACE RECOGNIZATION
+
+
+
+
     
-    `
+    
+    
   
 
   
    
-
